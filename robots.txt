@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://texobsledovanie.uz/sitemap.xml
